@@ -15,9 +15,8 @@
 [![Linkedin Follow](https://img.shields.io/static/v1?label=&message=Linkedin&color=blue&logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/mlaraibkhan/)
 
 <br /><br />
-<br /><br />
 
-:zap: GitHub Stats
+## :zap: GitHub Stats
 
 <img align="left" alt="Dave's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mlaraibkhan&show_icons=true&hide_border=true&count_private=true&show_icons=true&theme=react" /><br /><br />
 
