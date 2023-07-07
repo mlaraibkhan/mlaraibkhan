@@ -1,7 +1,7 @@
 ### Hi there I am [Laraib](https://www.linkedin.com/in/mlaraibkhan/)👋
 
 ## My YouTube Channel [CyberSecuritySupe](https://www.youtube.com/channel/UCI2UomLNTyzWLLg1-lU7A7A)
-[![YouTube Subscribe](https://studio.youtube.com/channel/UCI2UomLNTyzWLLg1-lU7A7A/editing/images)([https://www.youtube.com/channel/UCI2UomLNTyzWLLg1-lU7A7A](https://www.youtube.com/channel/UCI2UomLNTyzWLLg1-lU7A7A)?sub_confirmation=1) 
+[![YouTube Subscribe](https://studio.youtube.com/channel/UCI2UomLNTyzWLLg1-lU7A7A/editing/images)]([https://www.youtube.com/channel/UCI2UomLNTyzWLLg1-lU7A7A](https://www.youtube.com/channel/UCI2UomLNTyzWLLg1-lU7A7A)?sub_confirmation=1) 
 
 <img align="left" width="100px" alt="GIF" src="https://images.credly.com/size/680x680/images/7e75516f-5149-4d19-8d09-aa3dab4907cb/security-operations-analyst-associate-600x600.png" />
 <img align="left" width="100px" alt="GIF" src="https://images.credly.com/size/680x680/images/0ba22331-acf9-4e8a-8ce3-b4cc3d376040/image.png" />
