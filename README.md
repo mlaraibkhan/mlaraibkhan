@@ -33,8 +33,8 @@
 - 💬 Feel free to ask me about Incident Response Automation Playbooks, Security Detection Rules, and more!
 
 ## My articles are in the Cybersecurity & tech domain, some may not be relevant to you... but hey I can choose to share them anyway!
-### 📚 Recent [MEDIUM ARTICLES](https://medium.com/@mlaraib-khan)https://medium.com/@mlaraib-khan
-
+### 📚 Recent [MEDIUM ARTICLES](https://medium.com/@mlaraib-khan)
+<br /><br />
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mlaraib-khan/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mlaraib-khan/0" alt="Recent Article 0"> 
  
